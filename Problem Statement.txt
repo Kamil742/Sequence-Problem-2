@@ -1,0 +1,10 @@
+Level 1 
+Generate the first 100 multiples of 7 which are positive numbers and also odd numbers. 
+Store these 1000 numbers in an array.
+Generate the first 100 multiples of 7 which are positive numbers and also odd numbers. 
+Store these 100 numbers in an array.Display these 100 numbers. 
+Level 2 
+1. Print all such numbers to which starts with an even digit.
+2. Print how many such numbers are found.Example of such numbers: 21,49,63…… 
+Level 3 
+Display how many of the numbers stored in the array have the digit 1. Replace the numbers with reverse of the numbers.
